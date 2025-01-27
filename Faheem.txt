@@ -1,0 +1,2 @@
+Today is January 27,2025
+This is a text file used to test our knowledge for git.
